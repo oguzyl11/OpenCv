@@ -1,4 +1,4 @@
-# 🎯 NTP_Odev_YuzTanima - Gerçek Zamanlı Yüz Tespiti
+ NTP_Odev_YuzTanima - Gerçek Zamanlı Yüz Tespiti
 
 OpenCvSharp ve kamera girişi kullanarak gerçek zamanlı yüz tespiti yapan C# Windows Forms uygulaması.
 
@@ -90,58 +90,9 @@ NTP_Odev_YuzTanima/
 - **Kaynak Kullanımı**: Gerçek zamanlı işleme için optimize edilmiş
 - **Bellek Yönetimi**: OpenCV nesnelerinin otomatik temizlenmesi
 
-## 🐛 Sorun Giderme
 
-### Yaygın Sorunlar
 
-**Kamera açılmıyor:**
-- Kameranın başka bir uygulama tarafından kullanılmadığından emin olun
-- Kamera izinlerini kontrol edin
-- Kamera sürücülerinin yüklü olduğunu doğrulayın
-
-**Haar cascade dosyası bulunamıyor:**
-- `haarcascade_frontalface_default.xml` dosyasının çıktı dizininde olduğundan emin olun
-- Dosya izinlerini kontrol edin
-
-**Performans sorunları:**
-- Daha iyi performans için timer aralığını azaltın
-- Kamerayı kullanan diğer uygulamaları kapatın
-- Yeterli sistem kaynakları olduğundan emin olun
-
-## 🤝 Katkıda Bulunma
-
-1. Repository'yi fork edin
-2. Özellik dalı oluşturun (`git checkout -b feature/HarikaOzellik`)
-3. Değişikliklerinizi commit edin (`git commit -m 'Harika Özellik Ekle'`)
-4. Dalı push edin (`git push origin feature/HarikaOzellik`)
-5. Pull Request açın
 
 ## 📝 Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## 👨‍💻 Yazar
-
-**Yasir Arda**
-
-- Email:yasirardaayvacioglu@gmail.com
-
-
-## 🙏 Teşekkürler
-
-- Mükemmel bilgisayar görü kütüphanesi için OpenCV ekibi
-- C# wrapper için OpenCvSharp katkıcıları
-- .NET framework ve Windows Forms için Microsoft
-
-## 📈 Gelecek Geliştirmeler
-
-- [ ] Çoklu yüz tespiti algoritmaları
-- [ ] Yüz tanıma yetenekleri
-- [ ] Kayıt ve oynatma özellikleri
-- [ ] Gelişmiş görüntü işleme filtreleri
-- [ ] Çoklu dil desteği
-- [ ] Yapılandırma ayarları paneli
-
----
-
-⭐ **Bu repository'yi faydalı bulduysanız yıldızlayın!**
