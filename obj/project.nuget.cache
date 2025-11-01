@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "M6tKwabD3/Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yasir Arda\\Desktop\\desktop\\2025\\NTP_Odev_YuzTanima\\NTP_Odev_YuzTanima\\NTP_Odev_YuzTanima.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\opencvsharp4\\4.11.0.20250507\\opencvsharp4.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\opencvsharp4.extensions\\4.11.0.20250507\\opencvsharp4.extensions.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\opencvsharp4.runtime.win\\4.11.0.20250507\\opencvsharp4.runtime.win.4.11.0.20250507.nupkg.sha512",
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\system.drawing.common\\8.0.11\\system.drawing.common.8.0.11.nupkg.sha512",
+    "C:\\Users\\Yasir Arda\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
